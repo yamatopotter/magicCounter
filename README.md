@@ -19,7 +19,7 @@ btnLss = 7; -> botão para remover -1 a vida ou energia do Player 1
 
 btnLss5 = 9; -> mesma coisa do botão add5, porém, ao invés de adicionar, remove -5.
 
-int btnPly = 13 -> faz a troca do player na tela, mas essa função foi implementada com outro intuito. Atualmente não faz muito sentido.
+btnPly = 13 -> faz a troca do player na tela, mas essa função foi implementada com outro intuito. Atualmente não faz muito sentido.
 
 Portas utilizadas pelo LCD (12 - RS, 11 - E, 5 - D4, 4 - D5, 3 - D6, 2 - D7)
 
